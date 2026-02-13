@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+ENV/
+env/
+
+# Pytest cache and log files
+.pytest_cache/
+*.log
+
+# IDE / editor directories
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# OneDrive sync
+~$*
+
+# Data files
+/data/expenses.csv
+
+# Secrets
+*.env
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Others
+*.sqlite3
+
+# Compiled extensions
+*.so
